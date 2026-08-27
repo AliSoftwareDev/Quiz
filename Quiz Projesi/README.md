@@ -4,6 +4,7 @@ Kullanıcıların bilgilerini test etmesini sağlayan, dinamik soru yapısına v
 
 ## 📸 Ekran Görüntüsü
 
+<img width="1280" height="720" alt="Screen Recording 2026-08-27 at 09 35 47 52 PM" src="https://github.com/user-attachments/assets/a6991511-4c21-4165-9833-7be2235bbf8b" />
 
 
 ---
